@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`manager Check overlay correct work 1`] = `"<div id=\\"overlay\\"></div>"`;
+
+exports[`manager Check overlay correct work 2`] = `
+<div
+  class="dialog-layout"
+>
+  <p />
+</div>
+`;
+
+exports[`manager Check overlay correct work 3`] = `"<!---->"`;
+
+exports[`manager Check overlay with extended component 1`] = `"<div id=\\"overlay\\">extended</div>"`;
+
+exports[`manager Check overlay with extended component 2`] = `
+<div
+  class="dialog-layout"
+>
+  <p />
+</div>
+`;
+
+exports[`manager Check overlay with extended component 3`] = `"<!---->"`;

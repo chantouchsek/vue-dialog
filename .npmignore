@@ -1,0 +1,8 @@
+test
+coverage
+build
+.vscode
+.trash
+*.tgz
+.idea
+.vscode
